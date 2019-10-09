@@ -1,0 +1,1 @@
+bare et simplet jquery plugin
